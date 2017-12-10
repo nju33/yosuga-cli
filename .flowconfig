@@ -1,0 +1,17 @@
+[ignore]
+.*/node_modules/yosuga/dist/declarations/node.js.flow
+.*/node_modules/config-chain/test/broken.json
+
+[include]
+
+[libs]
+
+[lints]
+
+[options]
+esproposal.decorators=ignore
+munge_underscores=true
+unsafe.enable_getters_and_setters=true
+suppress_comment= \\(.\\|\n\\)*\\$FlowFixMe
+
+[strict]
