@@ -13,7 +13,7 @@
     "fs-extra": "^4.0.3",
     "pkg-dir": "^2.0.0",
     "yargs": "^10.0.3",
-    "yosuga": "^0.0.10"
+    "yosuga": "latest"
   },
   "devDependencies": {
     "babel-plugin-add-module-exports": "^0.2.1",
