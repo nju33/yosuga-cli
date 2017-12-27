@@ -1,7 +1,7 @@
 {
   "name": "yosuga-cli",
   "description": "Yosuga's cli tool",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "repository": "nju33/yosuga-cli.git",
   "author": "nju33 <nju33.ki@gmail.com>",
